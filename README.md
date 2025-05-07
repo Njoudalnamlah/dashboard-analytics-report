@@ -13,7 +13,7 @@ This repository contains a detailed data analysis presented in Excel format. The
 - Microsoft Excel
 - Data Cleaning & Validation
 - Pivot Tables & Charts
-- 
+  
 ## 💡 Purpose
 This report aims to:
 - Analyze data
